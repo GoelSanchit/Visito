@@ -1,0 +1,33 @@
+{
+"login" : [
+  {"firstname" : "Anil",
+   "lastname" : "Pandey",
+  "username": "anil pandey",
+  "password": "12345"
+  },
+  {"firstname" : "Sanchit",
+   "lastname" : "Goel",
+  "username": "sanchit goel",
+  "password": "12345"
+  },
+  {"firstname" : "Soham",
+  "lastname" : "Bhattacharya",
+  "username": "soham bhattacharya",
+  "password": "12345"
+  },
+  {"firstname" : "Saif",
+  "lastname" : "Ullah",
+  "username": "saif ullah",
+  "password": "12345"
+  },
+  {"firstname" : "Niharika",
+  "lastname" : "Chandel",
+  "username": "niharika chandel",
+  "password": "12345"
+  },
+  {"firstname" : "Sooraj",
+  "lastname" : "Narasimhan",
+  "username": "sooraj narasimhan",
+  "password": "12345"
+  }
+]}
